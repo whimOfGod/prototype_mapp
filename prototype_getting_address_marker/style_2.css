@@ -1,0 +1,77 @@
+body {
+    background-color: #F6F6F6;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+.panel {
+    height: 12em;
+}
+
+.imgLogo {
+    padding-top: 1.5em;
+    padding-left: 2em ;
+}
+
+.contactText{
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    font-size: 17px;
+    padding-top: 1.5em;
+    padding-left: 1em;
+}
+
+#mapCanvas {
+    margin-top: 2em;
+    height: 39em;
+    width: 77em;
+    box-shadow: 0.1px 0.1px 2.5px 0.1px;
+    
+    
+   }
+
+.myHeader {
+    background-color: white;
+    height: 6em;
+    width: auto;
+    box-shadow: -0.1px 0.1px 0.1px 0.1px;
+    overflow: hidden;
+}
+
+b {
+    color: #474554;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#markerStatus {
+    color: #008B69;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#info {
+    color: #008B69;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#address {
+    color: #008B69;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#msg {
+    padding-left: 5em;
+    /* top: 6em; ;
+    left: 16em; */
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    font-size: 17px;
+    height: 13em !important;
+    width: 63.4em;
+    padding-top: 1%;
+    box-shadow: 0.1px 0.1px 2.5px 0px;
+    margin: 0%;
+
+}
